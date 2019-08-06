@@ -7,6 +7,7 @@ public with sharing class DemoController {
         // Monday, 6:45pm
         // Monday, 6:50pm
         // Monday, 6:55pm
+        // Tuesday, 5:55pm
     }
 
     /**
